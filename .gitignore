@@ -1,0 +1,12 @@
+.env
+serviceAccountKey.json
+# Dependency folders should never go to Git
+node_modules
+
+# Ignore secrets & deps
+.env
+serviceAccountKey.json
+node_modules
+
+# Secrets
+serviceAccountKey.json
